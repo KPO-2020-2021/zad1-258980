@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-double Dodaj();
+double Dodaj(double, double); /// c++ nie rozpoznaje inaczej ze chodiz nam o ta sama funkcje
 
 
 int main( )
